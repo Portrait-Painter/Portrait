@@ -42,7 +42,7 @@ Whether you’re enhancing a single portrait or creating an entire artistic port
 - 💻 Optimized for macOS with Retina displays.
 
 <div align="center">  
-<a href="http://portrait-painter.github.io/.github">  
+<a href="https://portrait-painter.github.io/.github">  
 <img src="https://img.shields.io/badge/⬇️_INSTALL_PORTRAIT_PAINTER_ON_MACBOOK-darkorange?style=for-the-badge&logo=apple" alt="Install Portrait Painter on MacBook">  
 </a>  
 </div>  
@@ -99,7 +99,7 @@ Whether you’re enhancing a single portrait or creating an entire artistic port
 - 👥 **Community updates** with new creative workflows.
 
 <div align="center">  
-<a href="http://portrait-painter.github.io/.github">  
+<a href="https://portrait-painter.github.io/.github">  
 <img src="https://img.shields.io/badge/⬇️_INSTALL_PORTRAIT_PAINTER_ON_MACBOOK-darkorange?style=for-the-badge&logo=apple" alt="Install Portrait Painter on MacBook">  
 </a>  
 </div>  
